@@ -1,11 +1,11 @@
 # Mapa-54-2023
-#**Quem sou**
+#**Quem sou:**
 Welerson Gomes da Silva, Estudade do curso de BACHARELADO EM ENGENHARIA DE SOFTWARE pela univercidade UniCesumar.   
 
-**Finalidade**
+**Finalidade:**
 Compreender a sequência de atividades de um processo de IC, conforme esquematizado na imagem do slide 14 em "ApoioMAPA".
 
-**Integração Contínua (IC)**
+**Integração Contínua (IC):**
 ​A Integração Contínua (IC) é uma prática muito importante no processo de desenvolvimento ágil de software. A IC tem como objetivo integrar as alterações de código feitas por diferentes membros da equipe de desenvolvimento, de forma contínua e automatizada ao invés de esperar o final do ciclo de desenvolvimento para realizar essa integração. Essa abordagem traz uma série de benefícios para o processo de desenvolvimento ágil.
 
 A IC ajuda a detectar e corrigir problemas de forma mais rápida. Ao integrar o código com frequência, a equipe consegue identificar erros e conflitos de integração de forma mais ágil, o que permite que eles sejam corrigidos antes que se tornem problemas maiores. Além disso, a IC também facilita a realização de testes automatizados de forma mais eficiente, garantindo que o software seja testado continuamente durante o processo de desenvolvimento.
